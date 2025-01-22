@@ -13,7 +13,7 @@ print(L)
 # Practice Question - 01.
 # Print the list of odd & even number seperatly.
 
-L = [7, 6, 9, 2, 5, 4, 12, 18, 20, 25]
+ L = [7, 6, 9, 2, 5, 4, 12, 18, 20, 25]
 
 # Initialize empty lists for odd and even numbers
 odd_numbers = []
